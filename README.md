@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravankumar1199" alt="sravankumar1199" /></a> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/sravankumartudi**
+- 📫 How to reach me **sravankumartudi99@gmail.com**
 
 - ⚡ Fun fact **I create youtube videos**
 
